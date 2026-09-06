@@ -1,0 +1,934 @@
+{
+  "hotspots": {
+    "flags_4_large": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 0,
+            "width": 128,
+            "height": 512
+          },
+          "labels": [
+            "blue",
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 0,
+            "width": 128,
+            "height": 512
+          },
+          "labels": [
+            "red",
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 0,
+            "width": 128,
+            "height": 512
+          },
+          "labels": [
+            "green",
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": 0,
+            "width": 128,
+            "height": 512
+          },
+          "labels": [
+            "yellow",
+            "team4"
+          ]
+        }
+      ]
+    },
+    "flags_4_small": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 0,
+            "width": 64,
+            "height": 256
+          },
+          "labels": [
+            "blue",
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 64,
+            "y": 0,
+            "width": 64,
+            "height": 256
+          },
+          "labels": [
+            "red",
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 0,
+            "width": 64,
+            "height": 256
+          },
+          "labels": [
+            "green",
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 192,
+            "y": 0,
+            "width": 64,
+            "height": 256
+          },
+          "labels": [
+            "yellow",
+            "team4"
+          ]
+        }
+      ]
+    },
+    "small_flags_4_large": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": -0,
+            "y": -0,
+            "width": 128,
+            "height": 256
+          },
+          "labels": [
+            "blue",
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": -0,
+            "width": 128,
+            "height": 256
+          },
+          "labels": [
+            "red",
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 0,
+            "width": 128,
+            "height": 256
+          },
+          "labels": [
+            "green",
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": 0,
+            "width": 128,
+            "height": 256
+          },
+          "labels": [
+            "yellow",
+            "team4"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 256,
+            "width": 128,
+            "height": 256
+          },
+          "labels": [
+            "blue",
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 256,
+            "width": 128,
+            "height": 256
+          },
+          "labels": [
+            "red",
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 256,
+            "width": 128,
+            "height": 256
+          },
+          "labels": [
+            "green",
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": 256,
+            "width": 128,
+            "height": 256
+          },
+          "labels": [
+            "yellow",
+            "team4"
+          ]
+        }
+      ]
+    },
+    "small_flags_4_small": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 0,
+            "width": 64,
+            "height": 128
+          },
+          "labels": [
+            "blue",
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 64,
+            "y": 0,
+            "width": 64,
+            "height": 128
+          },
+          "labels": [
+            "red",
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 0,
+            "width": 64,
+            "height": 128
+          },
+          "labels": [
+            "green",
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 192,
+            "y": 0,
+            "width": 64,
+            "height": 128
+          },
+          "labels": [
+            "yellow",
+            "team4"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 128,
+            "width": 64,
+            "height": 128
+          },
+          "labels": [
+            "blue",
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 64,
+            "y": 128,
+            "width": 64,
+            "height": 128
+          },
+          "labels": [
+            "red",
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 128,
+            "width": 64,
+            "height": 128
+          },
+          "labels": [
+            "green",
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 192,
+            "y": 128,
+            "width": 64,
+            "height": 128
+          },
+          "labels": [
+            "yellow",
+            "team4"
+          ]
+        }
+      ]
+    },
+    "flags_1_large": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": -0,
+            "y": -0,
+            "width": 128,
+            "height": 512
+          }
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 0,
+            "width": 128,
+            "height": 512
+          }
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 0,
+            "width": 128,
+            "height": 512
+          }
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": 0,
+            "width": 128,
+            "height": 512
+          }
+        }
+      ]
+    },
+    "flags_1_small": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 0,
+            "width": 64,
+            "height": 256
+          }
+        },
+        {
+          "rectangle": {
+            "x": 64,
+            "y": 0,
+            "width": 64,
+            "height": 256
+          }
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 0,
+            "width": 64,
+            "height": 256
+          }
+        },
+        {
+          "rectangle": {
+            "x": 192,
+            "y": 0,
+            "width": 64,
+            "height": 256
+          }
+        }
+      ]
+    },
+    "all_tfc_symbols": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": -0,
+            "y": -0,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "blue",
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": -0,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "green",
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 128,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "red",
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 128,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "yellow",
+            "team4"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": -0,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": -0,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 128,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": 128,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "team4"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 256,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 256,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 384,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 384,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "team4"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 256,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "blue",
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": 256,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "green",
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 384,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "red",
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": 384,
+            "width": 128,
+            "height": 128
+          },
+          "labels": [
+            "yellow",
+            "team4"
+          ]
+        }
+      ]
+    },
+    "tfc_symbols_colored": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": -0,
+            "y": -0,
+            "width": 256,
+            "height": 256
+          },
+          "labels": [
+            "blue",
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 0,
+            "width": 256,
+            "height": 256
+          },
+          "labels": [
+            "green",
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 256,
+            "width": 256,
+            "height": 256
+          },
+          "labels": [
+            "red",
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 256,
+            "width": 256,
+            "height": 256
+          },
+          "labels": [
+            "yellow",
+            "team4"
+          ]
+        }
+      ]
+    },
+    "tfc_symbols_white": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 0,
+            "width": 256,
+            "height": 256
+          },
+          "labels": [
+            "team1"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 0,
+            "width": 256,
+            "height": 256
+          },
+          "labels": [
+            "team3"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 256,
+            "width": 256,
+            "height": 256
+          },
+          "labels": [
+            "team2"
+          ]
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 256,
+            "width": 256,
+            "height": 256
+          },
+          "labels": [
+            "team4"
+          ]
+        }
+      ]
+    }
+  },
+  "textures": {
+    "{ctf_bnr_01": {
+      "hotspot": "flags_4_large",
+      "labels": [
+        "flag",
+        "symbol"
+      ]
+    },
+    "{ctf_bnr_02": {
+      "hotspot": "flags_4_small",
+      "labels": [
+        "flag",
+        "symbol"
+      ]
+    },
+    "{ctf_bnr_03": {
+      "hotspot": "flags_4_large",
+      "labels": [
+        "flag",
+        "symbol"
+      ]
+    },
+    "{ctf_bnr_04": {
+      "hotspot": "flags_4_small",
+      "labels": [
+        "flag",
+        "symbol"
+      ]
+    },
+    "{ctf_bnr_05": {
+      "hotspot": "small_flags_4_large",
+      "labels": [
+        "flag",
+        "symbol"
+      ]
+    },
+    "{ctf_bnr_06": {
+      "hotspot": "small_flags_4_small",
+      "labels": [
+        "flag",
+        "symbol"
+      ]
+    },
+    "{ctf_bnr_07": {
+      "hotspot": "small_flags_4_large",
+      "labels": [
+        "flag",
+        "symbol"
+      ]
+    },
+    "{ctf_bnr_08": {
+      "hotspot": "small_flags_4_small",
+      "labels": [
+        "flag",
+        "symbol"
+      ]
+    },
+    "{ctf_bnr_blu_01": {
+      "hotspot": "flags_1_large",
+      "labels": [
+        "flag",
+        "blue",
+        "team1",
+        "symbol",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_blu_02": {
+      "hotspot": "flags_1_small",
+      "labels": [
+        "flag",
+        "blue",
+        "team1",
+        "symbol",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_blu_03": {
+      "hotspot": "flags_1_large",
+      "labels": [
+        "flag",
+        "blue",
+        "team1",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_blu_04": {
+      "hotspot": "flags_1_small",
+      "labels": [
+        "flag",
+        "blue",
+        "team1",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_grn_01": {
+      "hotspot": "flags_1_large",
+      "labels": [
+        "flag",
+        "green",
+        "team3",
+        "symbol",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_grn_02": {
+      "hotspot": "flags_1_small",
+      "labels": [
+        "flag",
+        "green",
+        "team3",
+        "symbol",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_grn_03": {
+      "hotspot": "flags_1_large",
+      "labels": [
+        "flag",
+        "green",
+        "team3",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_grn_04": {
+      "hotspot": "flags_1_small",
+      "labels": [
+        "flag",
+        "green",
+        "team3",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_red_01": {
+      "hotspot": "flags_1_large",
+      "labels": [
+        "flag",
+        "red",
+        "team2",
+        "symbol",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_red_02": {
+      "hotspot": "flags_1_small",
+      "labels": [
+        "flag",
+        "red",
+        "team2",
+        "symbol",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_red_03": {
+      "hotspot": "flags_1_large",
+      "labels": [
+        "flag",
+        "red",
+        "team2",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_red_04": {
+      "hotspot": "flags_1_small",
+      "labels": [
+        "flag",
+        "red",
+        "team2",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_ylw_01": {
+      "hotspot": "flags_1_large",
+      "labels": [
+        "flag",
+        "yellow",
+        "team4",
+        "symbol",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_ylw_02": {
+      "hotspot": "flags_1_small",
+      "labels": [
+        "flag",
+        "yellow",
+        "team4",
+        "symbol",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_ylw_03": {
+      "hotspot": "flags_1_large",
+      "labels": [
+        "flag",
+        "yellow",
+        "team4",
+        "torn"
+      ]
+    },
+    "{ctf_bnr_ylw_04": {
+      "hotspot": "flags_1_small",
+      "labels": [
+        "flag",
+        "yellow",
+        "team4",
+        "torn"
+      ]
+    },
+    "{ctf_conc_01": {
+      "hotspot": "all_tfc_symbols",
+      "labels": [
+        "symbol",
+        "concrete"
+      ]
+    },
+    "{ctf_conc_02": {
+      "hotspot": "tfc_symbols_colored",
+      "labels": [
+        "symbol",
+        "concrete"
+      ]
+    },
+    "{ctf_conc_03": {
+      "hotspot": "tfc_symbols_white",
+      "labels": [
+        "symbol",
+        "concrete"
+      ]
+    },
+    "{ctf_conc_04": {
+      "hotspot": "tfc_symbols_colored",
+      "labels": [
+        "symbol",
+        "concrete"
+      ]
+    },
+    "{ctf_metal_01": {
+      "hotspot": "all_tfc_symbols",
+      "labels": [
+        "symbol",
+        "metal"
+      ]
+    },
+    "{ctf_metal_02": {
+      "hotspot": "tfc_symbols_colored",
+      "labels": [
+        "symbol",
+        "metal"
+      ]
+    },
+    "{ctf_metal_03": {
+      "hotspot": "tfc_symbols_white",
+      "labels": [
+        "symbol",
+        "metal"
+      ]
+    },
+    "{ctf_metal_04": {
+      "hotspot": "tfc_symbols_colored",
+      "labels": [
+        "symbol",
+        "metal"
+      ]
+    }
+  }
+}
