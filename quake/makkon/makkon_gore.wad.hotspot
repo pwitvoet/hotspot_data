@@ -1,0 +1,611 @@
+{
+  "hotspots": {
+    "horizontal_trims": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": -0,
+            "y": -0,
+            "width": 512,
+            "height": 256
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 256,
+            "width": 512,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 384,
+            "width": 512,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 448,
+            "width": 512,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        }
+      ]
+    },
+    "meat_decals_large": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": 48,
+            "y": 16,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 16,
+            "y": 160,
+            "width": 176,
+            "height": 96
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 16,
+            "width": 80,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 352,
+            "y": 16,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 240,
+            "y": 160,
+            "width": 96,
+            "height": 96
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 352,
+            "y": 160,
+            "width": 128,
+            "height": 96
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 16,
+            "y": 304,
+            "width": 160,
+            "height": 192
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 240,
+            "y": 320,
+            "width": 96,
+            "height": 160
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 336,
+            "y": 320,
+            "width": 80,
+            "height": 160
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 416,
+            "y": 304,
+            "width": 80,
+            "height": 176
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        }
+      ]
+    },
+    "meat_decals_small": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": 24,
+            "y": 8,
+            "width": 64,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 8,
+            "y": 80,
+            "width": 88,
+            "height": 48
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 8,
+            "width": 40,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 176,
+            "y": 8,
+            "width": 64,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 120,
+            "y": 80,
+            "width": 48,
+            "height": 48
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 176,
+            "y": 80,
+            "width": 64,
+            "height": 48
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 8,
+            "y": 152,
+            "width": 80,
+            "height": 96
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 120,
+            "y": 160,
+            "width": 48,
+            "height": 80
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 168,
+            "y": 160,
+            "width": 40,
+            "height": 80
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 208,
+            "y": 152,
+            "width": 40,
+            "height": 88
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        }
+      ]
+    },
+    "teeth_trims": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": -0,
+            "y": -0,
+            "width": 512,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 128,
+            "width": 512,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 192,
+            "width": 512,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 256,
+            "width": 512,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 320,
+            "width": 512,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 384,
+            "width": 512,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 448,
+            "width": 512,
+            "height": 32
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 480,
+            "width": 512,
+            "height": 32
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        }
+      ]
+    },
+    "blood_decals": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": -0,
+            "y": -0,
+            "width": 256,
+            "height": 256
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": -0,
+            "width": 256,
+            "height": 256
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 256,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 256,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 256,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": 256,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 384,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 128,
+            "y": 384,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 384,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": 384,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        }
+      ]
+    },
+    "guts_decals": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": -0,
+            "y": -0,
+            "width": 256,
+            "height": 256
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": -0,
+            "width": 256,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 256,
+            "y": 128,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 384,
+            "y": 128,
+            "width": 128,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 256,
+            "width": 512,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": -0,
+            "y": 384,
+            "width": 512,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both"
+        }
+      ]
+    }
+  },
+  "textures": {
+    "{blood_trail1": {
+      "hotspot": "horizontal_trims",
+      "labels": [
+        "blood",
+        "trail",
+        "decal"
+      ]
+    },
+    "*gore_blood01": {
+      "hotspot": "",
+      "labels": [
+        "blood"
+      ]
+    },
+    "*gore_blood02": {
+      "hotspot": "",
+      "labels": [
+        "blood"
+      ]
+    },
+    "{gore_meat02": {
+      "hotspot": "meat_decals_large",
+      "labels": [
+        "meat",
+        "decal"
+      ]
+    },
+    "{gore_meat02b": {
+      "hotspot": "meat_decals_small",
+      "labels": [
+        "meat",
+        "decal"
+      ]
+    },
+    "{gore_meat03": {
+      "hotspot": "horizontal_trims",
+      "labels": [
+        "meat",
+        "decal"
+      ]
+    },
+    "gore_meat03": {
+      "hotspot": "",
+      "labels": [
+        "meat"
+      ]
+    },
+    "gore_meat01": {
+      "hotspot": "",
+      "labels": [
+        "meat"
+      ]
+    },
+    "{gore_meat01": {
+      "hotspot": "horizontal_trims",
+      "labels": [
+        "meat",
+        "decal"
+      ]
+    },
+    "{gore_teeth01": {
+      "hotspot": "teeth_trims",
+      "labels": [
+        "teeth",
+        "decal"
+      ]
+    },
+    "{blood_splats1": {
+      "hotspot": "blood_decals",
+      "labels": [
+        "blood",
+        "splat",
+        "decal"
+      ]
+    },
+    "{gore_guts02": {
+      "hotspot": "guts_decals",
+      "labels": [
+        "guts",
+        "decal"
+      ]
+    },
+    "gore_guts01": {
+      "hotspot": "",
+      "labels": [
+        "guts"
+      ]
+    }
+  }
+}
