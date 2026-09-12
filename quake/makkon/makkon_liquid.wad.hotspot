@@ -1,0 +1,212 @@
+{
+  "hotspots": {
+    "tar_trims": {
+      "rectangles": [
+        {
+          "rectangle": {
+            "x": 0,
+            "y": -0,
+            "width": 512,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 128,
+            "width": 512,
+            "height": 128
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 256,
+            "width": 512,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 320,
+            "width": 512,
+            "height": 64
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 416,
+            "width": 512,
+            "height": 32
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 384,
+            "width": 512,
+            "height": 32
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 480,
+            "width": 512,
+            "height": 32
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        },
+        {
+          "rectangle": {
+            "x": 0,
+            "y": 448,
+            "width": 512,
+            "height": 32
+          },
+          "allow_rotation": true,
+          "allow_mirroring": "both",
+          "horizontal_layout": "tile"
+        }
+      ]
+    }
+  },
+  "textures": {
+    "*waterblu1": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "blue1"
+      ]
+    },
+    "*waterblu2": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "blue2"
+      ]
+    },
+    "*waterbrwn1": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "brown"
+      ]
+    },
+    "*watercontrast1": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "black"
+      ]
+    },
+    "*watercontrast2": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "white"
+      ]
+    },
+    "*watergrey": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "gray"
+      ]
+    },
+    "*watermurk1": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "murky1"
+      ]
+    },
+    "*watermurk2": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "murky2"
+      ]
+    },
+    "*waterpink1": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "pink"
+      ]
+    },
+    "*waterteal1": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "teal"
+      ]
+    },
+    "*watermurk3": {
+      "hotspot": "",
+      "labels": [
+        "water",
+        "murky3"
+      ]
+    },
+    "*tele128_prpl1": {
+      "hotspot": "",
+      "labels": [
+        "teleport"
+      ]
+    },
+    "*tele128_ylw1": {
+      "hotspot": "",
+      "labels": [
+        "teleport"
+      ]
+    },
+    "*lava_tar02": {
+      "hotspot": "",
+      "labels": [
+        "tar"
+      ]
+    },
+    "*lava_tar01": {
+      "hotspot": "",
+      "labels": [
+        "tar"
+      ]
+    },
+    "{lava_tar01trim": {
+      "hotspot": "tar_trims",
+      "labels": [
+        "tar",
+        "decal"
+      ]
+    },
+    "*tele128_blu1": {
+      "hotspot": "",
+      "labels": [
+        "teleport"
+      ]
+    }
+  }
+}
